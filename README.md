@@ -1,6 +1,6 @@
 # Hey, I'm Spriha! 👋
 
-### Computer Science Graduate | Aspiring Software Developer | Suffolk University CS '26
+### Computer Science Graduate | Software Developer | Solutions Engineer
 
 🌐 **Portfolio**
 
