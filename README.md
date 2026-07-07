@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Spriha! 👋
 
-<!--
-**sprihapaudel/sprihapaudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Graduate | Aspiring Software Developer | Suffolk University BS. CS'26
 
-Here are some ideas to get you started:
+🌐 **Portfolio**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 sprihapaudel.github.io
+
+---
+
+Passionate about building intuitive, sustainable, and AI-driven software solutions that create meaningful real-world impact.
+
+---
+
+### Connect
+
+<a href= "https://www.linkedin.com/in/spriha-paudel/">LinkedIn 💼 </a> | <a href= "mailto:sprihapaudel@gmail.com"> 📧 Email </a>
