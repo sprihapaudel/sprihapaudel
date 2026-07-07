@@ -26,4 +26,4 @@
 
 ### Connect
 
-<a href= "https://www.linkedin.com/in/spriha-paudel/"> LinkedIn </a> | <a href= "mailto:sprihapaudel@gmail.com"> Email </a>
+<a href= "https://www.linkedin.com/in/spriha-paudel/"> LinkedIn </a>| <a href= "mailto:sprihapaudel@gmail.com"> Email </a>
