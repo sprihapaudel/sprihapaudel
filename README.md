@@ -22,4 +22,4 @@
 
 ### Connect
 
-<a href= "https://www.linkedin.com/in/spriha-paudel/">LinkedIn</a>&nbsp;&nbsp;|&nbsp;<a href= "mailto:sprihapaudel@gmail.com"> Email </a>
+<a href= "https://www.linkedin.com/in/spriha-paudel/">LinkedIn</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href= "mailto:sprihapaudel@gmail.com">Email</a>
